@@ -1,7 +1,7 @@
 ### Olá! Me chamo Felipe Augusto! 👋
 
-- :computer: Atualmente trabalho como assistente de analista de soluções tecnológicas
-- :mortar_board: Sou Bacharel em Engenharia de Telecomunicações e Ciências e Tecnologia, pela UFRN
+- :computer: Atualmente trabalho como assistente de soluções tecnológicas
+- :mortar_board: Estou me formando em Engenharia de Telecomunicações e sou Bacharel em Ciências e Tecnologia, pela UFRN
 - :satellite: Estudo desenvolvimento WEB e Modelagem 3D
 - 🌱 Estou estudando Python e Análise de dados
 - 📫 Você pode entrar em contato pelo email: felipe.silva.088@ufrn.edu.br
