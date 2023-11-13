@@ -1,4 +1,4 @@
-### Olá! Me chamo Felipe Augusto! 👋
+### Olá! Me chamo Felipe Cortez Muniz! 👋
 
 - :computer: Atualmente trabalho como Analista de Projetos
 - :mortar_board: Engenheiro de Telecomunicações e Bacharel em Ciências e Tecnologia, pela UFRN
