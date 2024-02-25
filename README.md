@@ -1,6 +1,6 @@
 ### Olá! Me chamo Felipe Cortez Muniz! 👋
 
-- :computer: Atualmente trabalho como Analista de Projetos
+- :computer: Atualmente trabalho como Pesquisador e Desenvolvedor
 - :mortar_board: Engenheiro de Telecomunicações e Bacharel em Ciências e Tecnologia, pela UFRN
 - :satellite: Estudo desenvolvimento WEB e Modelagem 3D
 - 🌱 Estou estudando Python e Análise de dados
