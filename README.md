@@ -2,7 +2,6 @@
 
 - :computer: Atualmente trabalho como Pesquisador e Desenvolvedor
 - :mortar_board: Engenheiro de Telecomunicações e Bacharel em Ciências e Tecnologia, pela UFRN
-- :satellite: Estudo desenvolvimento WEB e Modelagem 3D
 - 🌱 Estou estudando Python e Análise de dados
 - 📫 Você pode entrar em contato pelo email: felipe.silva.088@ufrn.edu.br
 
