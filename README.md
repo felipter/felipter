@@ -3,7 +3,7 @@
 - :computer: Atualmente trabalho com Pesquisa e Desenvolvimento
 - :mortar_board: Engenheiro de Telecomunicações e Bacharel em Ciências e Tecnologia, pela UFRN
 - 🌱 Estou estudando Python e Análise de dados
-- 📫 Você pode entrar em contato pelo email: felipe.silva.088@ufrn.edu.br
+- 📫 Você pode entrar em contato pelo email: facms15@gmail.com
 
 #### Tecnologias utilizadas
 
