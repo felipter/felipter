@@ -1,9 +1,9 @@
 ### Olá! Me chamo Felipe Cortez Muniz! 👋
 
 - :computer: Atualmente trabalho com Pesquisa e Desenvolvimento
-- :mortar_board: Engenheiro de Telecomunicações e Bacharel em Ciências e Tecnologia, pela UFRN
-- 🌱 Estou estudando Python e Análise de dados
-- 📫 Você pode entrar em contato pelo email: facms15@gmail.com
+- :mortar_board: Engenheiro de Telecomunicações, pela UFRN
+- 🌱 Estudando VLM e LLM
+- 📫 Contato: facms15@gmail.com
 
 #### Tecnologias utilizadas
 
