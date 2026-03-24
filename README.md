@@ -2,7 +2,7 @@
 
 I am a Telecommunications Engineer working in Research and Development, focused on creating intelligent solutions and data analysis. 
 
-- 🔭 Currently working as a Researcher (CNPq Fellow) on Embrapii projects.
+- 🔭 Currently working as a Researcher (CNPq Fellow) and Developer on Smart Cities projects.
 - 🎓 Telecommunications Engineer (UFRN) currently pursuing a Specialization in Artificial Intelligence (IMD/UFRN).
 - ⚙️ Developing access control and facial recognition systems for event analysis.
 - 🤖 Working with VLMs, LLMs, Machine Learning, and Data Science.
